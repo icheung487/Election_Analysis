@@ -17,7 +17,6 @@
    * Diana Degette had about 74% votes(272,892). 
    * Raymon Anthony Doana had about 3% votes (11,606). 
  
-![image](Results.png)
 
 Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
