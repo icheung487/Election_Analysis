@@ -5,4 +5,8 @@
 ## Election_Audit Results
 ###
 
+![image](results.png)
+
+
+
 ##Election Audit Summary
